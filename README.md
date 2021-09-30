@@ -1,4 +1,4 @@
-Project: Lemonade App - Full Code
+Project: Lemonade App
 ==================================
 
 Complete code of the independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
